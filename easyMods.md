@@ -1,7 +1,6 @@
 X/Y Axis End Stop Switch Holder
 
-Source: Autodesk
-Source: https://www.autodesk.com/community/gallery/project/135873/xy-axis-end-stop-switch-holder-for-ender-5-3d-printer
+Source: [Autodesk](Source: https://www.autodesk.com/community/gallery/project/135873/xy-axis-end-stop-switch-holder-for-ender-5-3d-printer)
 Creator: lgaga001
 
 Source: [Thingiverse](https://www.thingiverse.com/thing:3479406)
@@ -14,12 +13,10 @@ As medium Mod you can increase the size of the print bed (requires changes in fi
 
 Stabilizer Printbed
 
-Source: Thingiverse
-Download: https://www.thingiverse.com/thing:4410969
+Source: [Thingiverse](https://www.thingiverse.com/thing:4410969)
 Creator: BoothyBoothy
 
-Source: Thingiverse
-Download: https://www.thingiverse.com/thing:4128533
+Source: [Thingiverse](https://www.thingiverse.com/thing:4128533)
 Creator: DrieStone
 
 Stabilize the printbed of the 5 and 5pro.
@@ -28,12 +25,10 @@ Stabilize the printbed of the 5 and 5pro.
 
 Offset for front crossbeam in front of the printbed endposition
 
-Source: Thingiverse
-Download: https://www.thingiverse.com/thing:4410969
+Source: [Thingiverse](https://www.thingiverse.com/thing:4410969)
 Creator: Raggio
 
-Source: Thingiverse
-Download: https://www.thingiverse.com/thing:4334403
+Source: [Thingiverse](https://www.thingiverse.com/thing:4334403)
 Creator: Lyryln
 
 Brings the crossbeam in front of the printbed a bit down. With it you have plane sight to the nozzle.
@@ -42,8 +37,7 @@ Brings the crossbeam in front of the printbed a bit down. With it you have plane
 
 Printbed Cablestrain relief
 
-Source: Thingiverse
-Download: https://www.thingiverse.com/thing:3443100
+Source: [Thingiverse](https://www.thingiverse.com/thing:3443100)
 Creator: derandi3d
 
 Supports the Powersupplycable on the printbed and saves it from rip off.
@@ -52,8 +46,7 @@ Supports the Powersupplycable on the printbed and saves it from rip off.
 
 Display Backcover
 
-Source: Thingiverse
-Download: https://www.thingiverse.com/thing:3353394
+Source: [Thingiverse](https://www.thingiverse.com/thing:3353394)
 Creator: kilroy01
 
 A backcover for the display to prevent shortcuts.
@@ -62,8 +55,7 @@ A backcover for the display to prevent shortcuts.
 
 Display Backcover and Raspi case
 
-Source: Thingiverse
-Download: https://www.thingiverse.com/thing:4095160
+Source: [Thingiverse](https://www.thingiverse.com/thing:4095160)
 Creator: Hesi-Re
 
 A backcover for the display to prevent shortcuts with build in mount for Raspi Pi4.
@@ -72,8 +64,7 @@ A backcover for the display to prevent shortcuts with build in mount for Raspi P
 
 Ender 5 Extruder Arm
 
-Source: Thingiverse
-Download: https://www.thingiverse.com/thing:3595328
+Source: [Thingiverse](https://www.thingiverse.com/thing:3595328)
 Creator: IamSLy
 
 Changes the Position of the Extruder to the crossbeam of the y-motor. Results in shorter Bowden.
@@ -82,8 +73,7 @@ Changes the Position of the Extruder to the crossbeam of the y-motor. Results in
 
 Stabilizers 
 
-Source: Thingiverse
-Download: https://www.thingiverse.com/thing:4196635
+Source: [Thingiverse](https://www.thingiverse.com/thing:4196635)
 Creator: dbltrbl023
 
 Stabilizes the frame a bit more. Interessting if you drive higher acceleration.
