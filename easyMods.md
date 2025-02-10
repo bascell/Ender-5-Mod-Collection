@@ -1,6 +1,6 @@
-X/Y Axis End Stop Switch Holder
+**X/Y Axis End Stop Switch Holder**
 
-Source: [Autodesk](Source: https://www.autodesk.com/community/gallery/project/135873/xy-axis-end-stop-switch-holder-for-ender-5-3d-printer)
+Source: [Autodesk](https://www.autodesk.com/community/gallery/project/135873/xy-axis-end-stop-switch-holder-for-ender-5-3d-printer)
 Creator: lgaga001
 
 Source: [Thingiverse](https://www.thingiverse.com/thing:3479406)
@@ -9,9 +9,9 @@ Creator: rmpel
 Switches Positions of the Endstopswitches so the Gantry on both axes (and therefore the POM wheels) wouldn´t bump into the switches. With the mod the switches will pushed by carriage and waggon.
 As medium Mod you can increase the size of the print bed (requires changes in firmware).
 
-##################################################################################################################################################################################################
+###########################################################################################################
 
-Stabilizer Printbed
+**Stabilizer Printbed**
 
 Source: [Thingiverse](https://www.thingiverse.com/thing:4410969)
 Creator: BoothyBoothy
@@ -21,9 +21,9 @@ Creator: DrieStone
 
 Stabilize the printbed of the 5 and 5pro.
 
-##################################################################################################################################################################################################
+###########################################################################################################
 
-Offset for front crossbeam in front of the printbed endposition
+**Offset for front crossbeam in front of the printbed endposition**
 
 Source: [Thingiverse](https://www.thingiverse.com/thing:4410969)
 Creator: Raggio
@@ -33,45 +33,45 @@ Creator: Lyryln
 
 Brings the crossbeam in front of the printbed a bit down. With it you have plane sight to the nozzle.
 
-##################################################################################################################################################################################################
+###########################################################################################################
 
-Printbed Cablestrain relief
+**Printbed Cablestrain relief**
 
 Source: [Thingiverse](https://www.thingiverse.com/thing:3443100)
 Creator: derandi3d
 
 Supports the Powersupplycable on the printbed and saves it from rip off.
 
-##################################################################################################################################################################################################
+###########################################################################################################
 
-Display Backcover
+**Display Backcover**
 
 Source: [Thingiverse](https://www.thingiverse.com/thing:3353394)
 Creator: kilroy01
 
 A backcover for the display to prevent shortcuts.
 
-##################################################################################################################################################################################################
+###########################################################################################################
 
-Display Backcover and Raspi case
+**Display Backcover and Raspi case**
 
 Source: [Thingiverse](https://www.thingiverse.com/thing:4095160)
 Creator: Hesi-Re
 
 A backcover for the display to prevent shortcuts with build in mount for Raspi Pi4.
 
-##################################################################################################################################################################################################
+###########################################################################################################
 
-Ender 5 Extruder Arm
+**Ender 5 Extruder Arm**
 
 Source: [Thingiverse](https://www.thingiverse.com/thing:3595328)
 Creator: IamSLy
 
 Changes the Position of the Extruder to the crossbeam of the y-motor. Results in shorter Bowden.
 
-##################################################################################################################################################################################################
+###########################################################################################################
 
-Stabilizers 
+**Stabilizers**
 
 Source: [Thingiverse](https://www.thingiverse.com/thing:4196635)
 Creator: dbltrbl023
